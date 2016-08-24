@@ -1,1 +1,1 @@
-# transitsync-api
+# transit-api
